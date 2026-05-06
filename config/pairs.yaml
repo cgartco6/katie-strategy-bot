@@ -1,0 +1,7 @@
+pairs:
+  - "EUR/USD"
+  - "GBP/USD"
+  - "USD/JPY"
+  - "AUD/USD"
+  - "USD/CAD"
+interval: "1m"
